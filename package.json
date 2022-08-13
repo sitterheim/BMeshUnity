@@ -8,5 +8,10 @@
 		"name": "Elie Michel",
 		"email": "elie@exppad.com",
 		"url": "https://exppad.com/"
+	},
+	"dependencies": {
+		"com.unity.burst": "1.7.3",
+		"com.unity.collections": "1.3.1",
+		"com.unity.mathematics": "1.2.6"
 	}
 }
